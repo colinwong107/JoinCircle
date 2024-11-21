@@ -1,4 +1,4 @@
-# JoinCircle
+# Join Circle
 
 Please feel free to explore "Join Circle" at  https://main.d17caj9rxk8awk.amplifyapp.com/
 
